@@ -9,3 +9,8 @@ After training the model with 200 epochs, with the batch size of 16 and 0.001 le
 
 
 ![acc](https://user-images.githubusercontent.com/57037068/86542874-a53d2180-bf2a-11ea-813a-c5e15adf2256.PNG)
+
+Examples pictures from about 100 image collection dataset includes: 
+for clean and dirty model classes
+![32](https://user-images.githubusercontent.com/57037068/86542960-52b03500-bf2b-11ea-81d4-7b9ee2576a72.jpg)
+![18](https://user-images.githubusercontent.com/57037068/86542964-5c399d00-bf2b-11ea-96a8-365577dc33d8.jpg)
